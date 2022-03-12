@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\bin\Debug\netcoreapp3.1\shopping.exe
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\bin\Debug\netcoreapp3.1\shopping.deps.json
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\bin\Debug\netcoreapp3.1\shopping.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\bin\Debug\netcoreapp3.1\shopping.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\bin\Debug\netcoreapp3.1\shopping.dll
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\bin\Debug\netcoreapp3.1\shopping.pdb
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.dll
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.pdb
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\shopping\shopping\obj\Debug\netcoreapp3.1\shopping.genruntimeconfig.cache

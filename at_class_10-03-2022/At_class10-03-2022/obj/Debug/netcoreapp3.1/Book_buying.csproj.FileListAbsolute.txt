@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\bin\Debug\netcoreapp3.1\Book_buying.exe
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\bin\Debug\netcoreapp3.1\Book_buying.deps.json
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\bin\Debug\netcoreapp3.1\Book_buying.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\bin\Debug\netcoreapp3.1\Book_buying.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\bin\Debug\netcoreapp3.1\Book_buying.dll
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\bin\Debug\netcoreapp3.1\Book_buying.pdb
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.dll
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.pdb
+C:\Users\User\Desktop\HOMETASKS\ClassTasks\Book_buying\Book_buying\obj\Debug\netcoreapp3.1\Book_buying.genruntimeconfig.cache
